@@ -40,9 +40,7 @@ def finding_even_index(arr):
         sum_left = 0
         sum_right = 0
         sum_left = sum_left + sum(arr[:i])
-        #print(sum_left)
         sum_right = sum_right + sum(arr[i + 1:])
-        #print(sum_right)
         if sum_left == sum_right:
             return i
     return -1
