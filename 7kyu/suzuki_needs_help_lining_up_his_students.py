@@ -38,4 +38,6 @@ print(lineup_students("Tamotsu Takeo Seiji Yoshinori Taro Toru Yuichi Takehiko S
 """
 solution from codewars:
 return sorted(s.split(), key=lambda i:(len(i),i), reverse=True)
+
+
 """
