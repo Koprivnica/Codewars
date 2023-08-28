@@ -7,4 +7,4 @@ of given length and false in any other case.
 
 
 def is_triangle(a, b, c):
-    a + b + c > 2 * max(a, b, c)
+    a + b + c > 2 * max(a, b, c) 
