@@ -15,4 +15,4 @@ def capitals(word):
     return capitals_list
 
 
-print(capitals('CodEWaRs'))
+print(capitals('CodEWaRs')) 
