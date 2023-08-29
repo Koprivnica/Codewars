@@ -14,4 +14,4 @@ def sum_of_numbers(num_a, num_b):
     return num_sum
 
 
-print(sum_of_numbers(5, 5))            
+print(sum_of_numbers(5, 5))           
