@@ -12,4 +12,4 @@ def binary_addition(num_a, num_b):
     return bin(num_a + num_b)[2:]
 
 
-print(binary_addition(2, 3)) 
+print(binary_addition(2, 3))    
